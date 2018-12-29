@@ -2,13 +2,13 @@
     {
         "CurrentEnglish": "Updated",
         "CurrentJapanese": "新規",
-        "NewEnglish": "Remake",
+        "NewEnglish": "리메이크",
         "NewJapanese": "リメーク"
     },
     {
         "CurrentEnglish": "Original",
         "CurrentJapanese": "オリジナル",
-        "NewEnglish": "Console",
+        "NewEnglish": "콘솔",
         "NewJapanese": "ゲーム機"
     },
     {
@@ -32,31 +32,31 @@
     {
         "CurrentEnglish": "All-Cast Review Session",
         "CurrentJapanese": "お疲れさま会",
-        "NewEnglish": "All-Cast Review Session",
-        "NewJapanese": "お疲れさま会"
+        "NewEnglish": "출연자 논평회",
+        "NewJapanese": "お疲れさま会X"
     },
     {
         "CurrentEnglish": "Chapter Jump",
         "CurrentJapanese": "シナリオジャンプモード",
-        "NewEnglish": "Chapter Jump",
-        "NewJapanese": "シナリオジャンプモード"
+        "NewEnglish": "시나리오 건너뛰기",
+        "NewJapanese": "シナリオジャンプモードX"
     },
     {
         "CurrentEnglish": "View TIPS",
         "CurrentJapanese": "TIPSを読む",
-        "NewEnglish": "View TIPS",
+        "NewEnglish": "TIPS 재감상",
         "NewJapanese": "TIPSを読む"
     },
     {
         "CurrentEnglish": "Back",
         "CurrentJapanese": "戻る",
-        "NewEnglish": "Back",
+        "NewEnglish": "돌아가기",
         "NewJapanese": "戻る"
     },
     {
         "CurrentEnglish": "Staff Room",
         "CurrentJapanese": "スタッフルーム",
-        "NewEnglish": "Staff Room",
+        "NewEnglish": "스태프 룸",
         "NewJapanese": "スタッフルーム"
     },
     {
